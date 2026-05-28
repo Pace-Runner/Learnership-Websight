@@ -15,4 +15,4 @@ Team
 
 [@Pacewalker14](https://github.com/PaceWalker14)
 [@JoshSwayer](https://github.com/joshsawyer)
-[daniel-denial22]https://github.com/daniel-denial22
+[@daniel-denial22](https://github.com/daniel-denial22)
