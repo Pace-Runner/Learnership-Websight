@@ -11,10 +11,8 @@ All project documentation — including requirements, system design, architectur
 
 [Project Documentation](https://app.notion.com/p/SA-Learnerships-and-Skills-Development-Portal-3343fd7b5182800e9940f1bbc3d68105)
 
-Built With
-
-(add your stack here — e.g. React, Node.js, etc.)
-
 Team
 
-(add team member names/GitHub handles here)
+[@Pacewalker14](https://github.com/PaceWalker14)
+[@JoshSwayer](https://github.com/joshsawyer)
+[daniel-denial22]https://github.com/daniel-denial22
