@@ -2,6 +2,7 @@ SA Learnerships and Skills Development Portal
 
 <img width="1914" height="956" alt="image" src="https://github.com/user-attachments/assets/960032ce-463c-4e22-9ce8-31c2aa7f6fa3" />
 
+
 A web-based portal for discovering and managing South African learnerships and skills development opportunities. Built as a group project for a Software Design course at the University of the Witwatersrand.
 About
 The portal connects users with learnership programmes and skills development resources available in South Africa. It was designed with a focus on accessibility and ease of use, allowing individuals to find opportunities relevant to their field and apply with ease.
